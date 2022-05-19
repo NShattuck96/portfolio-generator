@@ -15,12 +15,8 @@
   "bugs": {
     "url": "https://github.com/NShattuck96/portfolio-generator/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/NShattuck96/portfolio-generator#readme"
-=======
   "homepage": "https://github.com/NShattuck96/portfolio-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
   }
->>>>>>> e5fcd64b121d4c0baae3da4de6029639a7786a6c
 }
